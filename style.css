@@ -1,0 +1,16 @@
+.heading {
+    color: yellow;
+    font-family: 'Bungee Inline', cursive;
+}
+
+.a {
+    font-size: 25px;
+    width: 20%;
+    border-radius: 20px;
+    border: 10px double darkgreen;
+}
+
+a:hover {
+    background-color: black !important;
+    color: white !important;
+}

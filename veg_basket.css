@@ -1,0 +1,30 @@
+canvas {
+    margin-top: 220px;
+    border: 3px solid hotpink;
+    box-shadow: 10px -10px 15px pink;
+    border-radius : 20px;
+}
+
+.heading {
+    width: 100%;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px red;
+    font-size: 30px !important;
+    border-top-color: darkmagenta;
+    border-left-color: darkmagenta;
+    border-top-width: 3px;
+    border-left-width: 3px;
+}
+
+.back {
+    float: right;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+a:hover {
+    box-shadow: -3px 3px 3px yellow !important;
+    background-color: darkorange !important;
+    color: darkred !important;
+    border-radius: 10px !important;
+}
